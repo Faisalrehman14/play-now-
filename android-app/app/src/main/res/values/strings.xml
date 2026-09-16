@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VEGAS SWEEPS</string>
+    <string name="account_hint">Account</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="forgot_button">Forgot Password</string>
+    <string name="remember">Remember Password</string>
+    <string name="error_empty">Please enter account and password</string>
+    <string name="error_invalid">Invalid credentials</string>
+    <string name="version">v1.0.60</string>
+</resources>

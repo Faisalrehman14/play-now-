@@ -1,0 +1,9 @@
+<resources>
+    <color name="bg">#12002A</color>
+    <color name="purple">#6A1B9A</color>
+    <color name="pink">#C2185B</color>
+    <color name="gold">#FFD54F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="input_bg">#1E0838</color>
+    <color name="error">#FF5252</color>
+</resources>
