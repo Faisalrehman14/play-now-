@@ -27,7 +27,7 @@
   }
 
   window.play_now_url = function () {
-    window.open("https://web-app-production-9e90.up.railway.app/", "_blank");
+    window.open("https://game.lasvegassweeps777.com/", "_blank");
     return false;
   };
 
